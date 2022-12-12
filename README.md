@@ -16,9 +16,18 @@ Numerous data mining techniques have been applied in the past to diagnose and pr
 A little emphasis was placed on determining the strength of these features in earlier research, which also concentrated on identifying the main contributing aspects to heart disease prediction.
 
 
+#Data Understanding
+
+We have used a variety of tools, including Numpy, Pandas, Matplotlib, and Seaborn, to import the data from the data collection. We read the dataset after loading the data. 
+
+![image](https://user-images.githubusercontent.com/105341413/206939142-247f2dff-e1b6-4280-88c2-2f3524d2f3c4.png)
+
+
 # Data Evaluation
 
 We go through numerous stages during the evaluation process, including:
 By performing multiple analyses on the raw csv file using different software programs and uploading the data to Jupiter notebook, we can anticipate the output value (class).
 After modeling each method, we calculated the four models' accuracy ratings. Of the three models, Random Forest has the best accuracy rating (90.16%), followed by Logistic Regression (85.25%). Decision trees, with an accuracy rate of 81.97%, had the lowest accuracy rate.
-![image](https://user-images.githubusercontent.com/105341413/206939052-240ff4c5-c7d4-452b-a9a8-74d7a8894573.png)
+
+
+![image](https://user-images.githubusercontent.com/105341413/206939097-51473001-a30a-4daa-a222-254bb8c26a03.png)
