@@ -15,6 +15,21 @@ We have used a variety of tools, including Numpy, Pandas, Matplotlib, and Seabor
 ![image](https://user-images.githubusercontent.com/105341413/206939142-247f2dff-e1b6-4280-88c2-2f3524d2f3c4.png)
 
 
+![image](https://user-images.githubusercontent.com/105341413/206939206-5508292c-6d5e-42a1-a61e-024df7133b0a.png)
+
+
+#  Exploratory Data Analysis (EDA) and Data Preparation
+
+The aim of EDA is to find underlying patterns within the data, detect outliers and test assumptions with the final aim of finding a model that fits the data well.
+
+There are four main types of EDA:
+•Univariate non-graphical: make observations of the population and understand sample distributions of a single variable. (e.g. the measure of spread, the measure of central tendency, outlier detection)
+•Univariate graphical: graphical analysis on a single variable. (e.g. Histograms, Boxplots, Stem and leaf)
+•Multivariate non-graphical: techniques which show the relationship between two or more variables. (e.g. covariance, correlations)
+•Multivariate graphical: graphically show the relationship between two or more variables. (e.g. bar plots, scatterplots)
+
+
+
 # Data Evaluation
 
 We go through numerous stages during the evaluation process, including:
