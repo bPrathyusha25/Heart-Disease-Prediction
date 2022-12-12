@@ -13,3 +13,7 @@ In many nations, cardiovascular disease is the main cause of death.
 Cardiovascular illness is frequently identified by doctors based on the results of recent clinical testing and their prior experience treating patients who presented with comparable symptoms. Heart disease patients need an immediate diagnosis, prompt treatment, and ongoing monitoring. 
 Numerous data mining techniques have been applied in the past to diagnose and predict heart illnesses in order to meet their needs. 
 A little emphasis was placed on determining the strength of these features in earlier research, which also concentrated on identifying the main contributing aspects to heart disease prediction.
+
+
+![image](https://user-images.githubusercontent.com/105341413/206938426-a7abf338-2209-4a88-aca1-5c0e26cd58c7.png)
+
