@@ -1,7 +1,8 @@
 # Heart-Disease-Prediction
 Heart disease can be managed effectively with a combination of lifestyle changes, medicine and, in some cases, surgery. With the right treatment, the symptoms of heart disease can be reduced and the functioning of the heart improved. The predicted results can be used to prevent and thus reduce cost for surgical treatment and other expensive.
 
-                                                ![image](https://user-images.githubusercontent.com/105341413/206938566-ac6d21a3-a7c3-46bb-a984-35f0bcffc530.png)
+
+![image](https://user-images.githubusercontent.com/105341413/206938566-ac6d21a3-a7c3-46bb-a984-35f0bcffc530.png)
 
 
 The overall objective of our work will be to predict accurately with few tests and attributes the presence of heart disease. Attributes considered form the primary basis for tests and give accurate results more or less. Many more input attributes can be taken but our goal is to predict with few attributes and faster efficiency the risk of having heart disease. Decisions are often made based on doctors’ intuition and experience rather than on the knowledge rich data hidden in the data set and databases.
